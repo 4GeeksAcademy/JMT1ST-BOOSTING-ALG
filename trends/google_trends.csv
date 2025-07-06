@@ -1,0 +1,266 @@
+date,divisa,term,trend_index
+2020-12-27,CNY,yuanes,32
+2020-12-27,CZK,coronas checas,0
+2020-12-27,JPY,yen japones,0
+2020-12-27,MAD,dirhams,61
+2020-12-27,MXN,pesos mexicanos,60
+2021-01-03,CNY,yuanes,28
+2021-01-03,CZK,coronas checas,0
+2021-01-03,JPY,yen japones,100
+2021-01-03,MAD,dirhams,62
+2021-01-03,MXN,pesos mexicanos,61
+2021-01-10,CNY,yuanes,17
+2021-01-10,CZK,coronas checas,0
+2021-01-10,JPY,yen japones,0
+2021-01-10,MAD,dirhams,71
+2021-01-10,MXN,pesos mexicanos,63
+2021-01-17,CNY,yuanes,21
+2021-01-17,CZK,coronas checas,0
+2021-01-17,JPY,yen japones,0
+2021-01-17,MAD,dirhams,63
+2021-01-17,MXN,pesos mexicanos,56
+2021-01-24,CNY,yuanes,32
+2021-01-24,CZK,coronas checas,0
+2021-01-24,JPY,yen japones,39
+2021-01-24,MAD,dirhams,64
+2021-01-24,MXN,pesos mexicanos,58
+2021-01-31,CNY,yuanes,26
+2021-01-31,CZK,coronas checas,0
+2021-01-31,JPY,yen japones,40
+2021-01-31,MAD,dirhams,40
+2021-01-31,MXN,pesos mexicanos,58
+2021-02-07,CNY,yuanes,21
+2021-02-07,CZK,coronas checas,0
+2021-02-07,JPY,yen japones,0
+2021-02-07,MAD,dirhams,54
+2021-02-07,MXN,pesos mexicanos,53
+2021-02-14,CNY,yuanes,22
+2021-02-14,CZK,coronas checas,0
+2021-02-14,JPY,yen japones,0
+2021-02-14,MAD,dirhams,53
+2021-02-14,MXN,pesos mexicanos,63
+2021-02-21,CNY,yuanes,18
+2021-02-21,CZK,coronas checas,0
+2021-02-21,JPY,yen japones,0
+2021-02-21,MAD,dirhams,38
+2021-02-21,MXN,pesos mexicanos,65
+2021-02-28,CNY,yuanes,29
+2021-02-28,CZK,coronas checas,38
+2021-02-28,JPY,yen japones,53
+2021-02-28,MAD,dirhams,48
+2021-02-28,MXN,pesos mexicanos,65
+2021-03-07,CNY,yuanes,24
+2021-03-07,CZK,coronas checas,45
+2021-03-07,JPY,yen japones,50
+2021-03-07,MAD,dirhams,73
+2021-03-07,MXN,pesos mexicanos,62
+2021-03-14,CNY,yuanes,25
+2021-03-14,CZK,coronas checas,0
+2021-03-14,JPY,yen japones,0
+2021-03-14,MAD,dirhams,57
+2021-03-14,MXN,pesos mexicanos,59
+2021-03-21,CNY,yuanes,20
+2021-03-21,CZK,coronas checas,0
+2021-03-21,JPY,yen japones,64
+2021-03-21,MAD,dirhams,39
+2021-03-21,MXN,pesos mexicanos,62
+2021-03-28,CNY,yuanes,53
+2021-03-28,CZK,coronas checas,0
+2021-03-28,JPY,yen japones,64
+2021-03-28,MAD,dirhams,64
+2021-03-28,MXN,pesos mexicanos,70
+2021-04-04,CNY,yuanes,14
+2021-04-04,CZK,coronas checas,0
+2021-04-04,JPY,yen japones,0
+2021-04-04,MAD,dirhams,55
+2021-04-04,MXN,pesos mexicanos,74
+2021-04-11,CNY,yuanes,21
+2021-04-11,CZK,coronas checas,0
+2021-04-11,JPY,yen japones,0
+2021-04-11,MAD,dirhams,46
+2021-04-11,MXN,pesos mexicanos,64
+2021-04-18,CNY,yuanes,24
+2021-04-18,CZK,coronas checas,39
+2021-04-18,JPY,yen japones,0
+2021-04-18,MAD,dirhams,52
+2021-04-18,MXN,pesos mexicanos,66
+2021-04-25,CNY,yuanes,20
+2021-04-25,CZK,coronas checas,0
+2021-04-25,JPY,yen japones,44
+2021-04-25,MAD,dirhams,49
+2021-04-25,MXN,pesos mexicanos,61
+2021-05-02,CNY,yuanes,16
+2021-05-02,CZK,coronas checas,49
+2021-05-02,JPY,yen japones,0
+2021-05-02,MAD,dirhams,60
+2021-05-02,MXN,pesos mexicanos,67
+2021-05-09,CNY,yuanes,24
+2021-05-09,CZK,coronas checas,0
+2021-05-09,JPY,yen japones,40
+2021-05-09,MAD,dirhams,59
+2021-05-09,MXN,pesos mexicanos,65
+2021-05-16,CNY,yuanes,34
+2021-05-16,CZK,coronas checas,0
+2021-05-16,JPY,yen japones,0
+2021-05-16,MAD,dirhams,59
+2021-05-16,MXN,pesos mexicanos,73
+2021-05-23,CNY,yuanes,29
+2021-05-23,CZK,coronas checas,0
+2021-05-23,JPY,yen japones,0
+2021-05-23,MAD,dirhams,61
+2021-05-23,MXN,pesos mexicanos,68
+2021-05-30,CNY,yuanes,24
+2021-05-30,CZK,coronas checas,0
+2021-05-30,JPY,yen japones,0
+2021-05-30,MAD,dirhams,62
+2021-05-30,MXN,pesos mexicanos,73
+2021-06-06,CNY,yuanes,22
+2021-06-06,CZK,coronas checas,0
+2021-06-06,JPY,yen japones,50
+2021-06-06,MAD,dirhams,42
+2021-06-06,MXN,pesos mexicanos,68
+2021-06-13,CNY,yuanes,13
+2021-06-13,CZK,coronas checas,0
+2021-06-13,JPY,yen japones,0
+2021-06-13,MAD,dirhams,75
+2021-06-13,MXN,pesos mexicanos,60
+2021-06-20,CNY,yuanes,15
+2021-06-20,CZK,coronas checas,0
+2021-06-20,JPY,yen japones,0
+2021-06-20,MAD,dirhams,62
+2021-06-20,MXN,pesos mexicanos,70
+2021-06-27,CNY,yuanes,19
+2021-06-27,CZK,coronas checas,46
+2021-06-27,JPY,yen japones,0
+2021-06-27,MAD,dirhams,89
+2021-06-27,MXN,pesos mexicanos,100
+2021-07-04,CNY,yuanes,22
+2021-07-04,CZK,coronas checas,51
+2021-07-04,JPY,yen japones,0
+2021-07-04,MAD,dirhams,80
+2021-07-04,MXN,pesos mexicanos,78
+2021-07-11,CNY,yuanes,27
+2021-07-11,CZK,coronas checas,0
+2021-07-11,JPY,yen japones,0
+2021-07-11,MAD,dirhams,61
+2021-07-11,MXN,pesos mexicanos,85
+2021-07-18,CNY,yuanes,28
+2021-07-18,CZK,coronas checas,0
+2021-07-18,JPY,yen japones,61
+2021-07-18,MAD,dirhams,69
+2021-07-18,MXN,pesos mexicanos,92
+2021-07-25,CNY,yuanes,30
+2021-07-25,CZK,coronas checas,0
+2021-07-25,JPY,yen japones,0
+2021-07-25,MAD,dirhams,47
+2021-07-25,MXN,pesos mexicanos,87
+2021-08-01,CNY,yuanes,27
+2021-08-01,CZK,coronas checas,55
+2021-08-01,JPY,yen japones,0
+2021-08-01,MAD,dirhams,70
+2021-08-01,MXN,pesos mexicanos,87
+2021-08-08,CNY,yuanes,30
+2021-08-08,CZK,coronas checas,64
+2021-08-08,JPY,yen japones,49
+2021-08-08,MAD,dirhams,81
+2021-08-08,MXN,pesos mexicanos,80
+2021-08-15,CNY,yuanes,26
+2021-08-15,CZK,coronas checas,0
+2021-08-15,JPY,yen japones,51
+2021-08-15,MAD,dirhams,86
+2021-08-15,MXN,pesos mexicanos,79
+2021-08-22,CNY,yuanes,32
+2021-08-22,CZK,coronas checas,54
+2021-08-22,JPY,yen japones,0
+2021-08-22,MAD,dirhams,78
+2021-08-22,MXN,pesos mexicanos,86
+2021-08-29,CNY,yuanes,26
+2021-08-29,CZK,coronas checas,62
+2021-08-29,JPY,yen japones,69
+2021-08-29,MAD,dirhams,82
+2021-08-29,MXN,pesos mexicanos,82
+2021-09-05,CNY,yuanes,30
+2021-09-05,CZK,coronas checas,65
+2021-09-05,JPY,yen japones,0
+2021-09-05,MAD,dirhams,64
+2021-09-05,MXN,pesos mexicanos,73
+2021-09-12,CNY,yuanes,31
+2021-09-12,CZK,coronas checas,0
+2021-09-12,JPY,yen japones,0
+2021-09-12,MAD,dirhams,62
+2021-09-12,MXN,pesos mexicanos,74
+2021-09-19,CNY,yuanes,65
+2021-09-19,CZK,coronas checas,61
+2021-09-19,JPY,yen japones,0
+2021-09-19,MAD,dirhams,61
+2021-09-19,MXN,pesos mexicanos,68
+2021-09-26,CNY,yuanes,100
+2021-09-26,CZK,coronas checas,82
+2021-09-26,JPY,yen japones,0
+2021-09-26,MAD,dirhams,62
+2021-09-26,MXN,pesos mexicanos,66
+2021-10-03,CNY,yuanes,69
+2021-10-03,CZK,coronas checas,76
+2021-10-03,JPY,yen japones,0
+2021-10-03,MAD,dirhams,77
+2021-10-03,MXN,pesos mexicanos,64
+2021-10-10,CNY,yuanes,62
+2021-10-10,CZK,coronas checas,0
+2021-10-10,JPY,yen japones,0
+2021-10-10,MAD,dirhams,71
+2021-10-10,MXN,pesos mexicanos,69
+2021-10-17,CNY,yuanes,43
+2021-10-17,CZK,coronas checas,45
+2021-10-17,JPY,yen japones,64
+2021-10-17,MAD,dirhams,85
+2021-10-17,MXN,pesos mexicanos,75
+2021-10-24,CNY,yuanes,41
+2021-10-24,CZK,coronas checas,96
+2021-10-24,JPY,yen japones,0
+2021-10-24,MAD,dirhams,67
+2021-10-24,MXN,pesos mexicanos,59
+2021-10-31,CNY,yuanes,37
+2021-10-31,CZK,coronas checas,64
+2021-10-31,JPY,yen japones,50
+2021-10-31,MAD,dirhams,43
+2021-10-31,MXN,pesos mexicanos,63
+2021-11-07,CNY,yuanes,32
+2021-11-07,CZK,coronas checas,81
+2021-11-07,JPY,yen japones,0
+2021-11-07,MAD,dirhams,57
+2021-11-07,MXN,pesos mexicanos,67
+2021-11-14,CNY,yuanes,30
+2021-11-14,CZK,coronas checas,100
+2021-11-14,JPY,yen japones,46
+2021-11-14,MAD,dirhams,89
+2021-11-14,MXN,pesos mexicanos,64
+2021-11-21,CNY,yuanes,34
+2021-11-21,CZK,coronas checas,75
+2021-11-21,JPY,yen japones,0
+2021-11-21,MAD,dirhams,82
+2021-11-21,MXN,pesos mexicanos,64
+2021-11-28,CNY,yuanes,31
+2021-11-28,CZK,coronas checas,81
+2021-11-28,JPY,yen japones,0
+2021-11-28,MAD,dirhams,87
+2021-11-28,MXN,pesos mexicanos,70
+2021-12-05,CNY,yuanes,39
+2021-12-05,CZK,coronas checas,0
+2021-12-05,JPY,yen japones,0
+2021-12-05,MAD,dirhams,75
+2021-12-05,MXN,pesos mexicanos,79
+2021-12-12,CNY,yuanes,30
+2021-12-12,CZK,coronas checas,70
+2021-12-12,JPY,yen japones,0
+2021-12-12,MAD,dirhams,57
+2021-12-12,MXN,pesos mexicanos,66
+2021-12-19,CNY,yuanes,33
+2021-12-19,CZK,coronas checas,0
+2021-12-19,JPY,yen japones,0
+2021-12-19,MAD,dirhams,100
+2021-12-19,MXN,pesos mexicanos,66
+2021-12-26,CNY,yuanes,45
+2021-12-26,CZK,coronas checas,66
+2021-12-26,JPY,yen japones,0
+2021-12-26,MAD,dirhams,74
+2021-12-26,MXN,pesos mexicanos,79
